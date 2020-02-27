@@ -1,9 +1,9 @@
 ### Università degli Studi di Udine
-#### Mobile Application Design
+##### Mobile Application Design
 
 # SpeakOut
 
-Applicazione Flutter per permettere agli utenti di segnalare un problema al proprio comune d'appartenenza.
+Progetto universitario per il corso Mobile Application Mobile: creazione di un'applicazione in Flutter per permettere agli utenti di effettuare delle segnalazioni al proprio comune d'appartenenza tramite smartphone.
 
 ### Autori
 - Alessia Marostica
